@@ -25,3 +25,6 @@ var header=document.getElementById('main-header');
 // // console.log(headerTitle.innerText);
 // headerTitle.innerHTML='<h3>Hello</h3>';
 header.style.borderBottom='3px solid #000';
+var addItems=document.querySelector('h2');
+
+addItems.style.color='green';
